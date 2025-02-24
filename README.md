@@ -1,4 +1,4 @@
-# Player Performance Analysis (Power BI Dashboard)
+# Football Player Performance Analysis (Power BI Dashboard)
 
 ## Table of Contents
 1. [Overview](#overview)
