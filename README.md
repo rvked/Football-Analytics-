@@ -1,7 +1,3 @@
-Below is a sample README you can adapt for your own project repository. Feel free to modify any sections or details based on your specific data sources, visual choices, or project requirements.
-
----
-
 # Player Performance Analysis (Power BI Dashboard)
 
 ## Table of Contents
